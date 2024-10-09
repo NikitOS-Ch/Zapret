@@ -5,4 +5,4 @@ main repository : https://github.com/bol-van/zapret
 потом service_start.cmd
 4) Если нужно отключить службу используйте файлы service_stop.cmd чтобы приостановить работу,
 или service_del.cmd чтобы удалить.
-
+Если не работает пробуйте перезагрузить комп, многим помогает
